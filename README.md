@@ -1,14 +1,12 @@
-# Ejemplo Documentación 
-![Tinkercad](./img/ArduinoTinkercad.jpg)
-
-
 ## Integrantes 
 - Thiago Rodriguez
 
 
-## Proyecto: Contador binario.
-![Tinkercad]([![Captura-de-pantalla-11.png](https://i.postimg.cc/JnD5rFrB/Captura-de-pantalla-11.png)](https://postimg.cc/WFVkSXJ2))
+## Proyecto: Montacarga.
+![Tinkercad](./imagenes/imagen_tinkercard.png)
 
+## Diagrama Esquematico
+![Tinkercad](./imagenes/imagen_esquematico.png)
 
 ## Descripción
 1) Interfaz de usuario:  
